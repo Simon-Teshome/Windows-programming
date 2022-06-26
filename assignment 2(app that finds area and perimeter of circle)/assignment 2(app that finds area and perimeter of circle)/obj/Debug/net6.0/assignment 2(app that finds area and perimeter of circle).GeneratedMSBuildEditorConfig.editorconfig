@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = assignment_2_app_that_finds_area_and_perimeter_of_circle_
+build_property.ProjectDir = C:\Users\NOAH\source\repos\assignment 2(app that finds area and perimeter of circle)\assignment 2(app that finds area and perimeter of circle)\
